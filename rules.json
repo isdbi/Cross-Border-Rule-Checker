@@ -1,0 +1,80 @@
+{
+  "DZA": [
+    {
+      "rule": "Interest (riba) is prohibited in all Shariah‑compliant transactions",
+      "replacements": ["Profit‑and‑loss sharing"],
+      "legal_source": "Cadre Législatif et Réglementaire, Bank of Algeria Art. XX",
+      "status": "active"
+    }
+  ],
+  "KSA": [
+    {
+      "rule": "Banks must establish Shariah governance committees with clear independence and reporting lines",
+      "replacements": [],
+      "legal_source": "Shariah Governance Instructions for Finance Companies, SAMA Art. 1–3",
+      "status": "active"
+    },
+    {
+      "rule": "Apply IFSB Capital Adequacy Standard (CAS) for Islamic assets rather than Basel II",
+      "replacements": [],
+      "legal_source": "Shariah Compliant Banking CAS, SAMA Section 9",
+      "status": "active"
+    }
+  ],
+  "ARE": [
+    {
+      "rule": "Adopt AAOIFI Shariah standards as the minimum requirements for IFI compliance",
+      "replacements": [],
+      "legal_source": "Higher Shari’ah Authority Resolution on AAOIFI Standards, HSA 2018",
+      "status": "active"
+    },
+    {
+      "rule": "Maintain an internal Shariah audit function to continuously verify compliance",
+      "replacements": [],
+      "legal_source": "CBUAE Rulebook Article 10: Internal Shari’ah Control",
+      "status": "active"
+    }
+  ],
+  "MYS": [
+    {
+      "rule": "All Islamic financial institutions must prohibit riba, gharar and maisir",
+      "replacements": [],
+      "legal_source": "Islamic Banking & Takaful Guidelines, BNM § 2.1",
+      "status": "active"
+    },
+    {
+      "rule": "Shariah committees must be independent and report directly to the Board",
+      "replacements": [],
+      "legal_source": "Shariah Governance Framework, BNM December 2004",
+      "status": "active"
+    }
+  ],
+  "PAK": [
+    {
+      "rule": "Murabaha: disclose cost and profit margin; sale involves real goods, not credit documents",
+      "replacements": [],
+      "legal_source": "Essentials of Islamic Modes of Financing, SBP § 1.i–ii",
+      "status": "active"
+    },
+    {
+      "rule": "Salam: advance payment for specified goods to be delivered later",
+      "replacements": [],
+      "legal_source": "Essentials of Islamic Modes of Financing, SBP § 4",
+      "status": "active"
+    }
+  ],
+  "IDN": [
+    {
+      "rule": "Sale and Purchase Financing must follow Shariah Financing Agreement structures",
+      "replacements": [],
+      "legal_source": "OJK Sharia Financing Regulations, Infrastructure Financing section",
+      "status": "active"
+    },
+    {
+      "rule": "Service Financing must comply with agreed service‑fee structures under Shariah principles",
+      "replacements": [],
+      "legal_source": "OJK Sharia Financing Regulations, Service Financing section",
+      "status": "active"
+    }
+  ]
+}
